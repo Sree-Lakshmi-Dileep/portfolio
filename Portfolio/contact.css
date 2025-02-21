@@ -33,9 +33,25 @@ nav li{
 
 
 
-i  {
-    font-size: 2em; /* Adjust the size of the icons */
-    color: #333; /* Set the color */
+/*.in  {
+    font-size: 2em; 
+    color: #333; 
+    margin: 10px;
+    z-index: 1;
+    position: absolute;
+    top: 60%;
+    left: 40%;
+  }
+  
+   .in{
+    text-decoration: none;
+    color: inherit; 
+   
+  }
+
+  .link  {
+    font-size: 2em; 
+    color: #333; 
     margin: 10px;
     z-index: 1;
     position: absolute;
@@ -43,8 +59,31 @@ i  {
     left: 40%;
   }
   
-  a {
+   .link{
     text-decoration: none;
-    color: inherit; /* Ensure link inherits icon color */
+    color: inherit; 
+   
+  }*/
+
+  .contact-item1{
+    position:absolute ;
+    top: 50%;
+    left: 40%;
   }
+
+  .contact-item2{
+    position:absolute ;
+    top: 55%;
+    left: 40%;
+
+  }
+
+  .contact-item3{
+    position:absolute ;
+    top: 60%;
+    left: 40%;
+  }
+
+
+  
   

@@ -16,14 +16,13 @@
 
 nav{
     background-color: rgb(232, 179, 211);
-   
+
     position: fixed;
     z-index: 1;
     top: 0;
     left: 0;
     width: 100%;
     padding: 10px;
-
     
 }
 
